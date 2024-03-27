@@ -54,3 +54,8 @@ def draw_heat_map():
     # Task 15: Do not modify the next two lines
     plt.savefig('heatmap.png')
     return fig
+
+
+    # Test the functions
+draw_cat_plot()
+draw_heat_map()
